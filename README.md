@@ -24,7 +24,7 @@ Manipular dados em planilhas
 |Tomar decisões comerciais baseadas em dados
 
 ## :wrench: Tecnologias utilizadas
-* BigQuery|PowerBI
+* Google SpreadSheets
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
