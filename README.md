@@ -29,6 +29,6 @@ Manipular dados em planilhas
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<https://github.com/Ludmilla-oliveira/Analise_Cancelamento_Hoteleiro_backup.git>
+<https://github.com/Ludmilla-oliveira/Projeto-2_Reten--o_Startup_Tecnol-gica>
 
 
