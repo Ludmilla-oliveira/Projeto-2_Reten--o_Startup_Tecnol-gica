@@ -18,10 +18,10 @@ comunicar suas descobertas e apoiar a tomada de decisões.
 
 
 Manipular dados em planilhas
-Organizar os dados em tabelas
-Realizar uma análise de coorte
-Seleção e filtragem de dados através de consultas
-Tomar decisões comerciais baseadas em dados
+|Organizar os dados em tabelas
+|Realizar uma análise de coorte
+|Seleção e filtragem de dados através de consultas
+|Tomar decisões comerciais baseadas em dados
 
 ## :wrench: Tecnologias utilizadas
 * BigQuery|PowerBI
