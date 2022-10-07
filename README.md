@@ -1,5 +1,3 @@
-# Projeto-2_Reten--o_Startup_Tecnol-gica
-
 
 <h1 align="center">:file_cabinet: Projeto-2_Retenção de uma Startup_Tecnológica</h1>
  :handshake: Colaboradores
@@ -18,16 +16,13 @@ comunicar suas descobertas e apoiar a tomada de decisões.
 ## :books: Objetivos 
 </b> Entendendo o conceito de ajuste do mercado de produtos
 
-#check
+
 Manipular dados em planilhas
-#check
 Organizar os dados em tabelas
-check
 Realizar uma análise de coorte
-check
 Seleção e filtragem de dados através de consultas
-check
 Tomar decisões comerciais baseadas em dados
+
 ## :wrench: Tecnologias utilizadas
 * BigQuery|PowerBI
 
