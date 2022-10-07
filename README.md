@@ -1,7 +1,7 @@
 # Projeto-2_Reten--o_Startup_Tecnol-gica
 
-# readme_Projeto-2_Retenção de uma Startup_Tecnológica
-<h1 align="center">:file_cabinet: Projeto 4: Análise de cancelamentos de Hotéis</h1>
+
+<h1 align="center">:file_cabinet: Projeto-2_Retenção de uma Startup_Tecnológica</h1>
  :handshake: Colaboradores
 </b>  Ludmilla Oliveira | Analista de Dados Jr.
 
@@ -18,9 +18,9 @@ comunicar suas descobertas e apoiar a tomada de decisões.
 ## :books: Objetivos 
 </b> Entendendo o conceito de ajuste do mercado de produtos
 
-check
+#check
 Manipular dados em planilhas
-check
+#check
 Organizar os dados em tabelas
 check
 Realizar uma análise de coorte
